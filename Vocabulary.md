@@ -34,13 +34,17 @@
 
 <!-- ## K -->
 <!-- ## L -->
-<!-- ## M -->
+
+## M
+
+- Mind your own business./干你屁事
 
 ## N
 
 - negative`a.`/否定的、負、陰性
 - negative`n.`/否定
 - negative`v.`/否定、拒絕
+- None of your business./干你屁事
 
 <!-- ## O -->
 

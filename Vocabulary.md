@@ -3,6 +3,7 @@
 ## A
 
 - advice/建議
+- as a result/因此
 
 <!-- ## B -->
 
@@ -10,12 +11,15 @@
 
 - clever/能解決問題的
 - confident/自信的
+- crucial/關鍵的 *be crucial to*
 
 ## D
 
 - disappointed/失望
 
-<!-- ## E -->
+## E
+
+- essay/短文
 
 ## F
 
@@ -32,12 +36,17 @@
 
 - judge/判斷
 
-<!-- ## K -->
+## K
+
+- keep someone from (n/Ving)/讓...(遠離/不能)...
+
 <!-- ## L -->
 
 ## M
 
 - Mind your own business./干你屁事
+- maintenance`n.`/維修
+- maintain`v.`/維持;保養
 
 ## N
 
@@ -52,11 +61,17 @@
 
 - positive/肯定的、正、陽性
 - probable`a.`/可能
+- photocopying`n.`/影印 *do photocopying*
 
 <!-- ## Q -->
-<!-- ## R -->
+
+## R
+
+- routine/例行的 *routine maintenance*
+
 <!-- ## S -->
-<!-- ## T -->
+## T
+- thus/總而言之
 <!-- ## U -->
 <!-- ## V -->
 <!-- ## W -->

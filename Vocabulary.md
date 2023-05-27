@@ -41,7 +41,7 @@
 
 ## G
 
-- grizzly bear/北美灰熊
+- grizzly (bear)/北美灰熊
 - graze/吃草
 
 ## H

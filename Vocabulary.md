@@ -21,6 +21,10 @@
 - characteristic/人格特質、個性
 - certainly/肯定的
 - common/常見的
+- cozy/小而舒適
+- ceiling/天花板
+- crackle`v.`/發出劈哩啪啦聲
+- cracking`a.`/劈哩啪啦的
 
 ## D
 
@@ -38,6 +42,7 @@
 - fantastic`a.`/美好的
 - fantasy`n.`/幻想
 - frustrated/沮喪的
+- fireplace/壁爐
 
 ## G
 
@@ -82,29 +87,41 @@
 - negative`v.`/否定、拒絕
 - None of your business./干你屁事
 
-<!-- ## O -->
+## O
+
+- overwhelm/淹沒、征服
 
 ## P
 
 - positive/肯定的、正、陽性
 - probable`a.`/可能
 - photocopying`n.`/影印 *do photocopying*
+- pastries/酥皮點心
 
-<!-- ## Q -->
+## Q
+
+- quaint/古雅的
 
 ## R
 
-- routine/例行的 *routine maintenance*
+- routine/例行的 *routine maintenance(定期維修)*
 - recent/最近的
 - ranger/遊俠、林務員
+- recommend(+that子句，動詞還原)/推薦
 
 ## S
 
 - spot`v.`/發現
+- suggest(+that子句，動詞還原)/建議
+- specific/具體的
+- stuff/填充
+- stove/火爐
 
 ## T
 
 - thus/總而言之
+- threshold/門檻
+- tumble into one's arms/跌入某人的懷中
 
 <!-- ## U -->
 <!-- ## V -->
@@ -113,6 +130,7 @@
 
 - weigh`v.`/重
 - weight`n.`/重量
+- warmth`n.`/溫暖
 
 <!-- ## X -->
 <!-- ## Y -->

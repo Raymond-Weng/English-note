@@ -24,7 +24,7 @@
 - cozy/小而舒適
 - ceiling/天花板
 - crackle`v.`/發出劈哩啪啦聲
-- cracking`a.`/劈哩啪啦的
+- crackling`n.`/劈哩啪啦聲
 
 ## D
 

@@ -6,11 +6,15 @@
 - as a result/因此
 - along(side)/沿著
 - adjoin/連接
+- a great deal of (Uncountable n.)/大量的
+- at sixes and seven/亂七八糟的（空間）、毫無頭緒的（人）
+- apparently/顯然地
 
 ## B
 
 - bison/北美野牛
 - buffalo/水牛
+- butcher/肉販
 
 ## C
 
@@ -29,12 +33,14 @@
 ## D
 
 - disappointed/失望
+- deaf/聾子
 
 ## E
 
 - essay/短文
 - essential/必要的、精華的、本質的
 - elk/北美麋鹿
+- exhausted/精疲力竭的
 
 ## F
 
@@ -43,6 +49,7 @@
 - fantasy`n.`/幻想
 - frustrated/沮喪的
 - fireplace/壁爐
+- fame`n.`/名聲
 
 ## G
 
@@ -54,11 +61,18 @@
 - hang out/閒晃
 - hang *(hang-hung-hung)* /掛
 - hang *(hang-hanged-hanged)*/弔死
+- hall/大廳
+- hall of fame/名人堂
+- hairdresser/理髮師
 
 ## I
 
 - informal/非正式的
 - impressively`adv.`/令人印象深刻地
+- in one's bad book/在某人的黑名單上
+- in one's good book/在某人的乖寶寶名單上
+- in hot water/惹上麻煩
+- in trouble/惹上麻煩
 
 ## J
 
@@ -72,6 +86,11 @@
 
 - literally/字面上的意思、真的
 - likely/很可能地
+- lawn/（人工培養的）草坪
+- lie low/躲起來、避避風頭
+- lie down/躺下
+- lobby/大廳
+- like a cat on a hot tin root
 
 ## M
 
@@ -79,6 +98,10 @@
 - maintenance`n.`/維修
 - maintain`v.`/維持;保養
 - meadows/草地
+- messy/髒亂的
+- mow/（用機器）除草
+- make for/前往
+- make oneself scarce/讓某人避開
 
 ## N
 
@@ -90,6 +113,7 @@
 ## O
 
 - overwhelm/淹沒、征服
+- obviously/顯然地
 
 ## P
 
@@ -97,6 +121,7 @@
 - probable`a.`/可能
 - photocopying`n.`/影印 *do photocopying*
 - pastries/酥皮點心
+- preparation/準備工作
 
 ## Q
 
@@ -116,12 +141,20 @@
 - specific/具體的
 - stuff/填充
 - stove/火爐
+- shed`n.`/小棚子 *garden shed（花園的工具間）*
+- shed`v.`*(shed-shed-shed)*/流出
+- shedding/shed的現在分詞
+- scarce/稀有
 
 ## T
 
 - thus/總而言之
 - threshold/門檻
 - tumble into one's arms/跌入某人的懷中
+- turn a deaf ear/裝作沒聽到
+- turn something upside down (Ving)/把某東西找遍
+- tin/錫
+- the coast is clear/風平浪靜
 
 <!-- ## U -->
 <!-- ## V -->
@@ -131,6 +164,9 @@
 - weigh`v.`/重
 - weight`n.`/重量
 - warmth`n.`/溫暖
+- worn out/精疲力竭
+- wear *(wear-wore-worn)*/穿
+- worn/被耗損的
 
 <!-- ## X -->
 <!-- ## Y -->

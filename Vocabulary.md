@@ -9,12 +9,14 @@
 - a great deal of (Uncountable n.)/大量的
 - at sixes and seven/亂七八糟的（空間）、毫無頭緒的（人）
 - apparently/顯然地
+- absolutely/絕對、真的
 
 ## B
 
 - bison/北美野牛
 - buffalo/水牛
 - butcher/肉販
+- burglars/闖空門的強盜
 
 ## C
 
@@ -34,6 +36,7 @@
 
 - disappointed/失望
 - deaf/聾子
+- demand`v./n.`/要求
 
 ## E
 
@@ -73,6 +76,7 @@
 - in one's good book/在某人的乖寶寶名單上
 - in hot water/惹上麻煩
 - in trouble/惹上麻煩
+- idiom/俚語
 
 ## J
 
@@ -90,7 +94,7 @@
 - lie low/躲起來、避避風頭
 - lie down/躺下
 - lobby/大廳
-- like a cat on a hot tin root
+- like a cat on a hot tin root/熱鍋上的螞蟻
 
 ## M
 
@@ -122,6 +126,7 @@
 - photocopying`n.`/影印 *do photocopying*
 - pastries/酥皮點心
 - preparation/準備工作
+- proverb/成語
 
 ## Q
 
@@ -133,6 +138,10 @@
 - recent/最近的
 - ranger/遊俠、林務員
 - recommend(+that子句，動詞還原)/推薦
+- remain/維持
+- remain at large/逍遙法外
+- receipt/收據
+- recipe/食譜
 
 ## S
 
@@ -145,6 +154,8 @@
 - shed`v.`*(shed-shed-shed)*/流出
 - shedding/shed的現在分詞
 - scarce/稀有
+- suspend/禁賽
+- secretary/秘書
 
 ## T
 
